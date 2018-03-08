@@ -1,5 +1,25 @@
 # gochiusa.vim :rabbit:
 
+## Samples
+
+source code from: https://github.com/appium/sample-code
+
+### Ruby
+
+![Ruby](./images/ruby.png)
+
+### Python
+
+![Python](./images/python.png)
+
+### PHP
+
+![PHP](./images/php.png)
+
+### Node.js
+
+![Node.js](./images/nodejs.png)
+
 ## Installation
 
 ```
